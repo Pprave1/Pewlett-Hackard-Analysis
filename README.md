@@ -6,4 +6,7 @@
 
   ![Deliverable 1.png](Data/Deliverable 1.png)
 
-###The unique titles table that we created is showing the most recent title for employees of retirment age.
+###The unique titles table that we created is showing the most recent title for employees of retirement age.
+
+![Deliverable_1_Distinct.png](Data/Deliverable_1_Distinct.png)
+
