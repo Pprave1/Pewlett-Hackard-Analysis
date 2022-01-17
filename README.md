@@ -4,7 +4,7 @@
 # Results
 ### With the retirment_titles table we were  able to see all  eligible employees for retirement and how long they have worked at each position over the course of their career and received  many duplicates due having multiple positions.
 
- ![Deliverable 1.png](Data/Deliverable 1.png)
+![Deliverable 1.png](Data/Deliverable 1.png)
 
 ### The unique titles table that we created is showing the most recent title for employees of retirement age.
 
@@ -17,7 +17,7 @@
 
 ![Mentorship_eligibilty.png](Data/Mentorship_eligibilty.png)
 
-#Summary
+# Summary
 ##How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 ###The "silver tsunami" will have a significant impact of leaving 90,398 vacancies.
 
