@@ -13,4 +13,8 @@
 ### Number of retirement-age employees by most recent job title was created using Count function which returened a potential amount of retirees.
 ![Deliverable_1_count.png](Data/Deliverable_1_count.png)
 
+###Then figured out the  employees who are eligible to participate in a mentorship program.
+
+![Mentorship_eligibilty.png](Data/Mentorship_eligibilty.png)
+
 
